@@ -2,6 +2,7 @@
 Pre-requisites for the OS:
 1. Download Oracle Virtualbox
 2. Download virtual hard drive image file OS.VDI
+
 Instructions on setting up the virtualbox image:
 Step 1: Download VirtualBox for your computer
 Go here:
