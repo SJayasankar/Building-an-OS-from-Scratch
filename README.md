@@ -33,3 +33,10 @@ Step 5:
 Double click on simulator.jar. Press Boot Floppy A: If you see a
 screen come up after a minute or so with the message “It Works”,
 then you're ready to start the project.
+
+Overview of stages A-E in the Porject:
+Project A - Booting
+Project B - System Calls
+Project C - Loading Files and Executing Programs
+Project D - Writing Files and Improving Shell
+Project E - Processes and Multitasking
